@@ -1,5 +1,5 @@
 {
-  "theme": "purple",
+  "theme": "grey",
   "profile": {
     "name": "Ando John",
     "role": "Data Analyst",
@@ -71,14 +71,14 @@
       "logo": "/logo-redshift.png"
     },
     {
+      "name": "Salesforce",
+      "description": "CRM data analysis, reporting, pipeline and sales insights",
+      "logo": "/logo-salesforce.png"
+    },
+    {
       "name": "Jira",
       "description": "Project tracking, agile workflows, sprint reporting",
       "logo": "/logo-jira.png"
-    },
-    {
-      "name": "Snowflake",
-      "description": "Cloud data warehousing and large scale data analytics",
-      "logo": "/skill-snowflake.png"
     }
   ],
   "tools": [],
@@ -121,6 +121,12 @@
       "name": "Microsoft Power BI Course",
       "organisation": "Microsoft",
       "date": "",
+      "credentialUrl": "#"
+    },
+    {
+      "name": "SQL Data Analytics Course",
+      "organisation": "Datacamp",
+      "date": "2026",
       "credentialUrl": "#"
     }
   ],
